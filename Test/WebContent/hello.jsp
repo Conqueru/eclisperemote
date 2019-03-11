@@ -9,7 +9,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+<br>
 <%
 Person person =new Person();
 System.out.println(person.getInfo());
